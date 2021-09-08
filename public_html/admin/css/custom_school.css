@@ -1,0 +1,273 @@
+.navbar_color{
+	background-color:#1e252f!important;
+}
+.panelsym_color1{
+	background-color:#1e252f!important;
+}
+.s_color{
+	color:white!important;
+}
+.m_color{
+	color:#ff6633!important;
+}
+.m1color{
+	color:darkblue!important;
+	font-size:20px!important;
+}
+.font_size15{
+	font-size:15px;!important;
+	
+}
+.font_size18{
+	font-size:18px;!important;
+	
+}
+.bold_font{
+	font-weight:bold!important;
+}
+.font_sms{
+	font-size:22px!important;
+	font-weight:bold!important;
+}
+.font_black{
+	color:black!important;
+	font-size:14px!important;
+}
+.font_red15{
+	color:black!important;
+	font-size:15px!important;
+}
+.font_black3{
+	color:black!important;
+	 
+}
+.font_black2{
+	color:black!important;
+	font-size:13px!important;
+}
+.font_red1{
+	color:red!important;
+	font-size:13px!important;
+}
+.font_white{
+	font-size:13px!important;
+	color:white!important;
+}
+.font_white2{
+	font-size:13px!important;
+	color:white!important;
+}
+.font_white4{
+	font-size:15px!important;
+	color:white!important;
+}
+.font_white5{
+	font-size:14px!important;
+	color:white!important;
+}
+.font_white3{
+	color:white!important;
+	font-size:16px!important;
+}
+.font_blue{
+	color:darkblue!important;
+	font-weight:bold!important;
+}
+.font1_blue{
+	color:darkblue!important;
+}
+.font_blue_20{
+	color:black!important;
+	font-size:18px!important;
+}
+.font_blue_18{
+	color:darkblue!important;
+	font-size:17!important;
+}
+
+.font_dred{
+	color:darkred!important;
+	font-size:18px!important;
+}
+.search_color{
+	background-color:white!important;
+}
+.log_bg{
+	background-color:#a4c1c1!important; 
+	border-top-right-radius: 25px!important; 
+	border-top-left-radius: 25px!important;
+	color:red!important;
+	font-weight:bold!important;
+}
+
+.log_bg2{
+	background-color:#404040!important;
+}
+.log_bg3{
+	background-color:#5f5f5f!important;
+}
+
+
+.side_bg{
+	background-color:#1e252f!important;
+	
+}
+
+.dashboard_color{
+	background-color:#d2d4d8!important;
+	border-radius:25px!important;
+	
+}
+
+.view_pro_color{
+	background-color:#858d9b!important;
+}
+.view_pro_color1{
+	background-color:#5f5f5f!important;
+}
+.view_pro_color2{
+	background-color:#858d9b!important;
+}
+.view_pro_color3{
+	background-color:#6B5F6E!important;
+}
+
+
+.bio_color{
+	color:#002066!important; 
+	font-size:18px !important;
+	font-weight:bold!important;
+}
+.pro_bg{
+	background-color:#e1e1d0!important;
+}
+
+.pro_bg2{
+	background-color:#f5f5f0!important;
+}
+.pro_bg3{
+	background-color:#e5e7ea!important;
+}
+.pro_bg5{
+	background-color:#e0ebeb!important;
+}
+.pro_bg6{
+	background-color:#998783!important;
+
+}
+.table_border1{
+	border:1px solid black!important;
+}
+.blue_btn{
+	background-color:#5d535f!important;
+	color:white!important;
+}
+.submit_btn{
+	background-color:#4f75ad!important;
+	color:white!important;
+}
+.red_btn{
+	background-color:#ff794d!important;
+	color:white!important;
+}
+.green_btn{
+	background-color:green!important;
+	color:white!important;
+}
+.table_bg{
+	background-color:white!important;
+}
+
+.view_techer_color{
+	background-color:#669999!important;
+}
+.view_techer_bg{
+	background-color:#e1eaea!important;
+}
+
+.staff_add_color{
+	background-color:#004d99!important;
+}
+.staff_color_bg{
+	background-color:#e3e6e8!important;
+}
+.profile_staff{
+	background-color:#73828c!important;
+}
+.add_library_pp{
+	background-color:#663399!important;
+}
+.lib_form_color{
+	background-color:#e0b3ff!important;
+}
+.table_lib{
+	background-color:#36527c!important;
+}
+.table_bg_lib{
+	background-color:#e0b3ff!important;
+}
+.pro_bg_lib{
+	background-color:#dce4ef!important;
+}
+.index_login_color{
+	background-color:#330000!important;
+}
+.index_login_btn{
+	 background-color:#86592d!important;
+	 font-weight:bold!important;
+}
+.promot_color{
+	background-color:	#9370DB!important;
+}
+.promotion_color{
+	background-color:#66ff66!important;
+}
+
+.admission_tb{
+	background-color:#666699!important;
+}
+
+.account_head_color{
+	background-color:#5f5f5f!important;
+	
+}
+.account_bg{
+	background-color:#e1e1d0!important;
+}
+.pro_account{
+	background-color:#75a3a3!important;
+}
+.pro_account_bg{
+	background-color:#e5e7ea!important;
+}
+.account_tble_bg{
+	background-color:#e6ffcc!important;
+}
+.class_head{
+	background-color:#3d4249!important;
+}
+.class_body{
+	background-color:#8093af!important;
+}
+.form_bg{
+	background-color:#d3d8de!important;
+}
+.viewclass{
+	background-color:#3e6eb2!important;
+}
+.form_bg_bl{
+	background-color:#c1c1f0!important;
+}
+.std_pro{
+	background-color:#4d4dff!important;
+}
+.std_pro_head{
+	background-color:#5c5c8a!important;
+}`
+.std_por_bg{
+	
+	background-color:#ffcc80!important;
+}
+.view_std_bg{
+	background-color:#ffcc80!important;
+}

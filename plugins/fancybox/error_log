@@ -1,0 +1,2 @@
+[08-Dec-2018 12:01:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; SMTP has a deprecated constructor in /home/kalagachia/public_html/plugins/fancybox/jobs.php on line 330
+[08-Dec-2018 12:03:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; SMTP has a deprecated constructor in /home/kalagachia/public_html/plugins/fancybox/jobs.php on line 330

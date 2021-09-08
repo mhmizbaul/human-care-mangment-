@@ -1,0 +1,15 @@
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteRule ^(.*)$ $1.php
+RewriteCond %{REQUEST_FILENAME}\.html -f 
+RewriteRule ^(.*)$ $1.html
+
+RewriteRule ^homepage?$ index.php
+RewriteRule ^donor-registration?$ donor_registration.php
+RewriteRule ^donor-list?$ donor_list.php
+RewriteRule ^donor-details?$ donor_details.php
+RewriteRule ^life-time-donor?$ life_time_donor.php
+RewriteRule ^our-service?$ service.php
+RewriteRule ^blog?$ blog.php
+RewriteRule ^contact-us?$ contact_us.php
+
